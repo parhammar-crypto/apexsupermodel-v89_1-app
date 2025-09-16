@@ -1,8 +1,8 @@
-streamlit
-pandas
 numpy
+pandas
 scikit-learn
 xgboost
 lightgbm
 requests
 matplotlib
+streamlit
