@@ -47,3 +47,5 @@ elif mode == "backtest":
         st.text_area("📤 Output", result.stdout)
         if result.stderr:
             st.error(result.stderr)
+
+
